@@ -1,0 +1,24 @@
+{
+  "name": "usaf-cookies-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rommatt4/usaf-cookies-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rommatt4/usaf-cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/rommatt4/usaf-cookies-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
